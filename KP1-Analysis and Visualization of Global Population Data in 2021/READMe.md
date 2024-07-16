@@ -6,6 +6,11 @@ This project involves analyzing a dataset containing global population data by c
 ## Project Difficulty Level
 Beginner level- Easiest
 
+## Tools Used
+1. Python
+2. Pandas 
+3. Plotly
+
 ## Dataset Details 📁
 The dataset includes:
 - **Country Name**: Name of the country. 🌏
