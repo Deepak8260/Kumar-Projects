@@ -3,6 +3,9 @@
 ## Project Overview
 This project involves analyzing a dataset containing global population data by country for the year 2021. The goal is to visualize the distribution of populations, identify the top and least populous countries, and create various plots to understand the data better. 🎯
 
+## Project Difficulty Level
+Beginner level- Easiest
+
 ## Dataset Details 📁
 The dataset includes:
 - **Country Name**: Name of the country. 🌏
