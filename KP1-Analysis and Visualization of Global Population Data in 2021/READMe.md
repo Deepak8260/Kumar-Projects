@@ -71,19 +71,19 @@ For the analysis, we focused on the population data for the year 2021. 📈
 
 ## Visualizations 🖼️
 - **Histogram of Population Distribution**
-  ![Population Distribution](D:/jupyter/Kumar DS Projects/KP1-Analysis and Visualization of Global Population Data in 2021/Histogram of total distribution.png)
+  ![Population Distribution](https://raw.githubusercontent.com/Deepak8260/Kumar-Projects/master/KP1-Analysis%20and%20Visualization%20of%20Global%20Population%20Data%20in%202021/Histogram%20of%20total%20distribution.png)
 
 - **Bar Chart of Top 10 Most Populous Countries**
-  ![Top 10 Countries](D:/jupyter/Kumar DS Projects/KP1-Analysis and Visualization of Global Population Data in 2021/bargraph of top 10 countries.png)
+  ![Top 10 Countries](https://raw.githubusercontent.com/Deepak8260/Kumar-Projects/master/KP1-Analysis%20and%20Visualization%20of%20Global%20Population%20Data%20in%202021/bargraph%20of%20top%2010%20countries.png)
 
 - **Box Plot of Population Data**
-  ![Box Plot](D:/jupyter/Kumar DS Projects/KP1-Analysis and Visualization of Global Population Data in 2021/Boxplot.png)
+  ![Box Plot](https://raw.githubusercontent.com/Deepak8260/Kumar-Projects/master/KP1-Analysis%20and%20Visualization%20of%20Global%20Population%20Data%20in%202021/Boxplot.png)
 
 - **Choropleth Map**
-  ![Global Population Map](D:/jupyter/Kumar DS Projects/KP1-Analysis and Visualization of Global Population Data in 2021/Global Map Choropleth.png)
+  ![Global Population Map](https://raw.githubusercontent.com/Deepak8260/Kumar-Projects/master/KP1-Analysis%20and%20Visualization%20of%20Global%20Population%20Data%20in%202021/Global%20Map%20Choropleth.png)
 
 - **Pie Chart of Top 10 Most Populous Countries**
-  ![Population Distribution](D:/jupyter/Kumar DS Projects/KP1-Analysis and Visualization of Global Population Data in 2021/pie chart.png)
+  ![Population Distribution](https://raw.githubusercontent.com/Deepak8260/Kumar-Projects/master/KP1-Analysis%20and%20Visualization%20of%20Global%20Population%20Data%20in%202021/pie%20chart.png)
 
 ## Conclusion 🎯
 This project demonstrates the importance of data visualization in uncovering patterns and trends in demographic data. The analysis highlights significant global population distribution trends, the dominance of a few populous countries, and the variability among country populations. These insights can inform strategic decisions in areas such as resource management, policy development, and economic planning. 🌟📈
